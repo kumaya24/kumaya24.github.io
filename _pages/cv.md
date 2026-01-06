@@ -9,56 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<a href="/files/Resume_Jacqui_Wang.pdf" target="_blank" class="btn btn--info">Download Full CV (PDF)</a>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Education
+* **B.S. in Computer & Information Science (AI)** and **Linguistics**, The Ohio State University, May 2026 (Expected)
+  * GPA: 3.8
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Research Experience
+* **Advisor: [William Schuler](https://linguistics.osu.edu/people/schuler.77):** Neural grammar induction and PCFG modeling for the Dyck language.
+* **Advisor: [Wynne Wong](https://frit.osu.edu/people/wong.240):** Human subject experiment for English & Mandarin acquisition.
+* **Advisor: [Cynthia Clopper](https://linguistics.osu.edu/people/clopper.1):** Phonetic annotation and alignment analysis.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Skills
+* **Languages:** Python, Java, C, Scheme/Lisp
+* **Frameworks:** PyTorch, Hugging Face, WandB
+* **Languages:** Chinese (Native), English (Professional), Japanese (Advanced), German(Beginner)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Selected Projects
+* **Cross-Cultural LLM Evaluation:** Designed a benchmark for evaluating cultural fidelity in selected LLMs.
+* **Wordle RL Agent:** Built a reinforcement learning agent using PPO and trap-set analysis.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Service and Leadership
+
+* **Department-Referred Phonetics Tutor** (Spring 2025)
+  * Tutored undergraduate students in IPA, articulatory phonetics, and acoustic analysis using Praat.
+  * Helped students bridge the gap between theoretical concepts and practical application in lab settings.
+
+* **Committee Member & Developer, OSU AI Club** (Jan 2023 - Feb 2023)
+  * Developed the dynamic front-end and back-end for the *OHI/O HackAI* competition website.
+  * Integrated content design and interactive functionality to support the university's primary AI hackathon.
+
+* **President, OSU Kendo Club** (Oct 2024 - Oct 2025; Previously Social Media Chair(Oct 2022 - Oct 2023), Social Chair(Oct 2023 - Oct 2024))
+  * Organized regular practice, club events and regular management, open tournaments and recruiting new members. 
