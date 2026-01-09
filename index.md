@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Jacqui Wang 王小玄 <span style="font-size: 0.6em; color: gray;">/ɕjɑʊ ɕɥɛn/(Xiaoxuan)</span>
+# Jacqui Wang </span>
 
 I am a graduating senior at **The Ohio State University** pursuing a dual degree in Computer and Information Science (AI track) and Linguistics (Computational Linguistics track).
 
