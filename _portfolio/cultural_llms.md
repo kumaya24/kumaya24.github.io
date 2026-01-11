@@ -5,8 +5,11 @@ collection: portfolio
 ---
 
 **Role:** Lead Researcher (in collaboration with [Jialing Wu](https://eed.osu.edu/people/wu.6489) and [Yingyu Cheng](https://stat.osu.edu/people/cheng.1753))
+
 **Advisor:** [Prof. Sachin Kumar](https://shocheen.github.io/)
+
 **Code:** [View on GitHub](https://github.com/kumaya24/cse5525-llm-cross-cultural-eval)
+
 **Status:** In Preparation (Targeting Feb 2026 Submission)
 
 ### Project Overview
@@ -21,7 +24,7 @@ We measured performance using 4 metrics (Cosine Similarity, BERTScore, BLEURT, a
     <p style="text-align: center; font-size: 0.8em; color: gray;">Fig 1: CSI-Match Performance (Cultural Accuracy)</p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/images/bertscore_plot_v2.png" alt="BERTScore Chart" style="width: 100%; border-radius: 5px;">
+    <img src="/images/bertscore.png" alt="BERTScore Chart" style="width: 100%; border-radius: 5px;">
     <p style="text-align: center; font-size: 0.8em; color: gray;">Fig 2: BERTScore Performance (General Semantics)</p>
   </div>
 </div>
@@ -29,7 +32,7 @@ We measured performance using 4 metrics (Cosine Similarity, BERTScore, BLEURT, a
 ### 2. Qualitative Analysis: Adaptation Strategies
 We categorized every translation output into 4 strategies. The distribution below shows a heavy bias toward literal translation.
 
-<img src="/images/strategy_distribution.png" alt="Strategy Distribution" style="display: block; margin: 0 auto 20px auto; width: 80%; border-radius: 5px;">
+<img src="/images/qualitative.png" alt="Strategy Distribution" style="display: block; margin: 0 auto 20px auto; width: 80%; border-radius: 5px;">
 <p style="text-align: center; font-size: 0.8em; color: gray; margin-top: -15px;">Fig 3: Distribution of adaptation strategies (GPT-4 with Synopsis)</p>
 
 ### Key Findings
@@ -39,8 +42,8 @@ We categorized every translation output into 4 strategies. The distribution belo
 
 * **The "Safe" Literalism Bias:**
     As shown in **Fig 3**, models overwhelmingly favor **Preservation** (56.8% of cases), defaulting to literal translations. While effective for simple titles, this strategy fails for idioms.
-    * *Example:* GPT translated *Crouching Tiger, Hidden Dragon* literally, missing the underlying idiom about "undiscovered talent".
-    * *Success:* However, when prompted with context, GPT successfully transformed *The Magic Blade* to capture the "heroic" genre tropes rather than using a stiff literal translation.
+    * *Example:* GPT translated 《卧虎藏龙》as *Crouching Tiger, Hidden Dragon* literally, missing the underlying idiom about "undiscovered talent".
+    * *Success:* However, when prompted with context, GPT successfully transformed 《天涯明月刀》（literal "Heaven's Edge, Bright Moon, Blade" into *The Magic Blade* to capture the "heroic" genre tropes rather than using a stiff literal translation.
 
 ### Technical Stack
 * **Models:** GPT-4, Llama 2, Gemini-2.5
