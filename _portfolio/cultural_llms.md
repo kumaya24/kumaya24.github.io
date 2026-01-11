@@ -4,7 +4,7 @@ excerpt: "A case study on Chinese-to-English movie title translation, analyzing 
 collection: portfolio
 ---
 
-**Role:** Lead Researcher (in collaboration with [Jialing Wu](https://eed.osu.edu/people/wu.6489) and [Yingyu Cheng](https://stat.osu.edu/people/cheng.1753))
+**Role:** Lead author (in collaboration with [Jialing Wu](https://eed.osu.edu/people/wu.6489) and [Yingyu Cheng](https://stat.osu.edu/people/cheng.1753))
 
 **Advisor:** [Prof. Sachin Kumar](https://shocheen.github.io/)
 
