@@ -43,7 +43,7 @@ We categorized every translation output into 4 strategies. The distribution belo
 * **The "Safe" Literalism Bias:**
     As shown in **Fig 3**, models overwhelmingly favor **Preservation** (56.8% of cases), defaulting to literal translations. While effective for simple titles, this strategy fails for idioms.
     * *Example:* GPT translated 《卧虎藏龙》as *Crouching Tiger, Hidden Dragon* literally, missing the underlying idiom about "undiscovered talent".
-    * *Success:* However, when prompted with context, GPT successfully transformed 《天涯明月刀》（literal "Heaven's Edge, Bright Moon, Blade" into *The Magic Blade* to capture the "heroic" genre tropes rather than using a stiff literal translation.
+    * *Success:* However, when prompted with context, GPT successfully transformed 《天涯明月刀》（literal "Heaven's Edge, Bright Moon, Blade") into *The Magic Blade* to match "Wuxia theme" as the "heroic" genre tropes rather than using a stiff literal translation.
 
 ### Technical Stack
 * **Models:** GPT-4, Llama 2, Gemini-2.5
