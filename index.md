@@ -31,4 +31,4 @@ I am currently applying to PhD programs in **Linguistics** and **Computer Scienc
 ### Personal Interests
 Outside of research, I serve as the President of the [**OSU Kendo Club**](https://www.instagram.com/osukendo.official/), where I manage training and operations for the team. I also enjoy **hiking**, **baking**, **knitting** (ask me about my latest project!) and learning Japanese language via natural acquisition.
 
-<img src="/images/shrine.png" width="600" style="display: block; margin: 20px auto; border-radius: 8px;">
+<img src="/images/shrine.jpg" width="600" style="display: block; margin: 20px auto; border-radius: 8px;">
