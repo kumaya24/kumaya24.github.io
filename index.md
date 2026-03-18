@@ -12,8 +12,7 @@ I am **Jacqui Wang**, a graduating senior at **The Ohio State University** pursu
 
 My research interests center on **computational linguistics** and **syntax**. Specifically, I am interested in how humans acquire grammatical knowledge from limited input and how this process can be formally characterized using computational modeling.
 
-I am currently applying to PhD programs in **Linguistics** and **Computer Science** for Fall 2026 admission.
-
+I am currently looking for research position in Computational Linguistics/NLP/AI. 
 ### Research Focus
 
 * **Neural Grammar Induction:** Investigating how neural networks learn hierarchical structures and unbounded dependencies.
